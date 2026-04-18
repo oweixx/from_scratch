@@ -1,0 +1,6 @@
+models/
+*.npz
+__pycache__
+data/
+logs/
+output/
